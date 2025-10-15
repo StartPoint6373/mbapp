@@ -22,3 +22,6 @@ dependencyResolutionManagement {
 rootProject.name = "wk3"
 include(":app")
 include(":wk03")
+include(":wk03:wk04")
+include(":wk04")
+include(":wk05")
